@@ -1,2 +1,2 @@
 # beta-Portfolio
-a responsive portfolio
+a responsive portfolio website
